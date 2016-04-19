@@ -1,0 +1,106 @@
+sw_volume: 40
+audio_device_state:1:CoreAudio
+state: stop
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:Joe Hisaishi/ARION/ARION_01.mp3
+1:Joe Hisaishi/ARION/ARION_02.mp3
+2:Joe Hisaishi/ARION/ARION_03.mp3
+3:Joe Hisaishi/ARION/ARION_04.mp3
+4:Joe Hisaishi/ARION/ARION_05.mp3
+5:Joe Hisaishi/ARION/ARION_06.mp3
+6:Joe Hisaishi/Information/INFORMATION_01.mp3
+7:Joe Hisaishi/Information/INFORMATION_02.mp3
+8:Joe Hisaishi/Information/INFORMATION_03.mp3
+9:Joe Hisaishi/Information/INFORMATION_04.mp3
+10:Joe Hisaishi/Information/INFORMATION_05.mp3
+11:Joe Hisaishi/Information/INFORMATION_06.mp3
+12:Joe Hisaishi/Information/INFORMATION_07.mp3
+13:Joe Hisaishi/Information/INFORMATION_08.mp3
+14:Joe Hisaishi/Piano StoriesⅡ/Piano StoriesⅡ_01.mp3
+15:Joe Hisaishi/Piano StoriesⅡ/Piano StoriesⅡ_02.mp3
+16:Joe Hisaishi/Piano StoriesⅡ/Piano StoriesⅡ_03.mp3
+17:Joe Hisaishi/Piano StoriesⅡ/Piano StoriesⅡ_04.mp3
+18:Joe Hisaishi/Piano StoriesⅡ/Piano StoriesⅡ_05.mp3
+19:Joe Hisaishi/Piano StoriesⅡ/Piano StoriesⅡ_06.mp3
+20:Joe Hisaishi/Piano StoriesⅡ/Piano StoriesⅡ_07.mp3
+21:Joe Hisaishi/Piano StoriesⅡ/Piano StoriesⅡ_08.mp3
+22:Joe Hisaishi/Piano StoriesⅡ/Piano StoriesⅡ_09.mp3
+23:Joe Hisaishi/Piano StoriesⅡ/Piano StoriesⅡ_10.mp3
+24:Joe Hisaishi/Spirited Away/Spirited Away_01.mp3
+25:Joe Hisaishi/Spirited Away/Spirited Away_02.mp3
+26:Joe Hisaishi/Spirited Away/Spirited Away_03.mp3
+27:Joe Hisaishi/Spirited Away/Spirited Away_04.mp3
+28:Joe Hisaishi/Spirited Away/Spirited Away_05.mp3
+29:Joe Hisaishi/Spirited Away/Spirited Away_06.mp3
+30:Joe Hisaishi/Spirited Away/Spirited Away_07.mp3
+31:Joe Hisaishi/Spirited Away/Spirited Away_08.mp3
+32:Joe Hisaishi/Spirited Away/Spirited Away_09.mp3
+33:Joe Hisaishi/Spirited Away/Spirited Away_10.mp3
+34:Joe Hisaishi/Spirited Away/Spirited Away_11.mp3
+35:Joe Hisaishi/Spirited Away/Spirited Away_12.mp3
+36:Joe Hisaishi/Spirited Away/Spirited Away_14.mp3
+37:Joe Hisaishi/Spirited Away/Spirited Away_13.mp3
+38:Joe Hisaishi/Spirited Away/Spirited Away_15.mp3
+39:Joe Hisaishi/Spirited Away/Spirited Away_16.mp3
+40:Joe Hisaishi/Spirited Away/Spirited Away_17.mp3
+41:Joe Hisaishi/Spirited Away/Spirited Away_18.mp3
+42:Joe Hisaishi/Spirited Away/Spirited Away_19.mp3
+43:Joe Hisaishi/Spirited Away/Spirited Away_20.mp3
+44:Joe Hisaishi/Spirited Away/Spirited Away_21.mp3
+45:Joe Hisaishi/WorksⅠ/WorksⅠ_01.mp3
+46:Joe Hisaishi/WorksⅠ/WorksⅠ_02.mp3
+47:Joe Hisaishi/WorksⅠ/WorksⅠ_03.mp3
+48:Joe Hisaishi/WorksⅠ/WorksⅠ_04.mp3
+49:Joe Hisaishi/WorksⅠ/WorksⅠ_05.mp3
+50:Joe Hisaishi/WorksⅠ/WorksⅠ_06.mp3
+51:Joe Hisaishi/WorksⅠ/WorksⅠ_07.mp3
+52:Joe Hisaishi/WorksⅡ/WorksⅡ_01.mp3
+53:Joe Hisaishi/WorksⅡ/WorksⅡ_02.mp3
+54:Joe Hisaishi/WorksⅡ/WorksⅡ_03.mp3
+55:Joe Hisaishi/WorksⅡ/WorksⅡ_04.mp3
+56:Joe Hisaishi/WorksⅡ/WorksⅡ_05.mp3
+57:Joe Hisaishi/WorksⅡ/WorksⅡ_06.mp3
+58:Joe Hisaishi/WorksⅡ/WorksⅡ_07.mp3
+59:Joe Hisaishi/WorksⅡ/WorksⅡ_08.mp3
+60:Joe Hisaishi/WorksⅡ/WorksⅡ_09.mp3
+61:Joe Hisaishi/WorksⅡ/WorksⅡ_10.mp3
+62:Joe Hisaishi/WorksⅡ/WorksⅡ_11.mp3
+63:Joe Hisaishi/WorksⅡ/WorksⅡ_12.mp3
+64:Joe Hisaishi/WorksⅡ/WorksⅡ_13.mp3
+65:Joe Hisaishi/はつ恋/はつ恋_01.mp3
+66:Joe Hisaishi/はつ恋/はつ恋_02.mp3
+67:Joe Hisaishi/はつ恋/はつ恋_03.mp3
+68:Joe Hisaishi/はつ恋/はつ恋_04.mp3
+69:Joe Hisaishi/はつ恋/はつ恋_05.mp3
+70:Joe Hisaishi/はつ恋/はつ恋_06.mp3
+71:Joe Hisaishi/はつ恋/はつ恋_07.mp3
+72:Joe Hisaishi/はつ恋/はつ恋_08.mp3
+73:Joe Hisaishi/はつ恋/はつ恋_09.mp3
+74:Joe Hisaishi/はつ恋/はつ恋_10.mp3
+75:Joe Hisaishi/はつ恋/はつ恋_11.mp3
+76:Joe Hisaishi/はつ恋/はつ恋_12.mp3
+77:Joe Hisaishi/はつ恋/はつ恋_13.mp3
+78:Joe Hisaishi/はつ恋/はつ恋_14.mp3
+79:Joe Hisaishi/はつ恋/はつ恋_15.mp3
+80:Joe Hisaishi/菊次郎の夏/菊次郎の夏_01.mp3
+81:Joe Hisaishi/菊次郎の夏/菊次郎の夏_02.mp3
+82:Joe Hisaishi/菊次郎の夏/菊次郎の夏_03.mp3
+83:Joe Hisaishi/菊次郎の夏/菊次郎の夏_04.mp3
+84:Joe Hisaishi/菊次郎の夏/菊次郎の夏_05.mp3
+85:Joe Hisaishi/菊次郎の夏/菊次郎の夏_06.mp3
+86:Joe Hisaishi/菊次郎の夏/菊次郎の夏_07.mp3
+87:Joe Hisaishi/菊次郎の夏/菊次郎の夏_08.mp3
+88:Joe Hisaishi/菊次郎の夏/菊次郎の夏_09.mp3
+89:Joe Hisaishi/菊次郎の夏/菊次郎の夏_10.mp3
+90:Joe Hisaishi/菊次郎の夏/菊次郎の夏_11.mp3
+91:Joe Hisaishi/菊次郎の夏/菊次郎の夏_12.mp3
+92:Spag Heddy - Permanent.mp3
+93:Spag Heddy - Love On First Sine.mp3
+playlist_end

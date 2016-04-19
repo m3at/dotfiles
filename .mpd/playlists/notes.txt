@@ -1,0 +1,4 @@
+# List music, mostly closed
+https://github.com/coderholic/pyradio/blob/master/pyradio/stations.csv
+# Huge, random, may work, seems open
+http://www.tvonlinestreams.com/shortwave-pirate-radio-low-power-radio/

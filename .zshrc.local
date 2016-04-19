@@ -1,0 +1,105 @@
+alias ipn="jupyter notebook"
+# alias subl="/Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl"
+# alias love="/Applications/love.app/Contents/MacOS/love"
+
+alias ipnssh="python /Users/meat/Documents/Vrac/tmp/launch_ipython_ssh.py"
+# alias i2='ssh sv15 -t "cd ~/virt/bin/NII;bash -l"'
+# alias i3='ssh sv15 -t "htop -d 2"'
+
+alias tube="~/node_modules/picture-tube/bin/tube.js"
+
+alias whattime="date \"+It's %H:%M on Greenwich Mean Time, the day is %A %B %d\" | say"
+
+alias apple2="open -a Apple2"
+alias phosphor="open -a Phosphor"
+
+alias tree="tree -C"
+
+alias wep-crack="echo 'airport -s; airport en0 sniff 6; aircrack-ng -1 -a 1 -b ea:f1:b0:ca:1c:d0 /tmp/airportSniffSqRkjk.cap'"
+
+alias dus="{du -hs * ; du -hs .*} | gsort -h"
+
+alias bandwith="slurm -s -i en0"
+
+alias monitor_network="slurm -s -i en0 ; bwm-ng ; bwm-ng -o curses2 ; bmon nload iftop"
+
+alias slk-sync="python /Users/meat/trading/tools/sync/sync.py slk80-0 --config /Users/meat/trading/tools/sync/config.json"
+
+alias star-wars="telnet towel.blinkenlights.nl"
+
+# alias weather="curl wttr.in"
+
+alias moon="/Users/meat/Misc/pyphoon/pyphoon"
+
+function weather() {
+    if [ $# -eq 0 ]
+        then
+            curl -s wttr.in | grep -v "Check\|Follow"
+        else
+            curl -s wttr.in/$1 | grep -v "Check\|Follow"
+    fi
+}
+
+# mpc add ``
+# alias mpd_get="youtube-dl -g --extract-audio --audio-format mp3  --audio-quality  0"
+
+function down() {
+    (cd /Users/meat/Music/down ;instantmusic -p -s $1)
+}
+
+function mpc_play() {
+    mpc add `youtube-dl -g --extract-audio --audio-format mp3  --audio-quality  0 $1`
+    # youtube-dl -g --extract-audio --audio-format mp3  --audio-quality  0 $1
+}
+
+function charizard_fire() {
+    clear; echo '\033[s' ; for D in `ls /Users/meat/Documents/tmp/Flaming_Charizard/*.anim | gsort -V`; do [ '${D}' ] && echo '\033[u' && cat ${D} && sleep 0.02; done; clear
+}
+
+function swap()
+{
+    local TMPFILE=tmp.$$
+    mv "$1" $TMPFILE
+    mv "$2" "$1"
+    mv $TMPFILE "$2"
+}
+
+function highlight_errors() {
+    GREP_COLOR='00;33;48;5;1' egrep --color -i 'error|fail|$' "${@:1}"
+}
+
+pyc() {
+    python -c "print($@)"
+}
+
+export LC_ALL=en_US.UTF-8
+export LANG=en_US.UTF-8
+
+function whatday() {
+    cal_head=`cal | head -1`; cal_tail=`cal | tail -7`; today=`date "+%e"`; ttoday=`date "+%a" | cut -c1-2`; echo "$cal_head"; tttmp=`echo -en "${cal_tail/${today}/\033[1;44m${today}\033[0m}"`; echo -en "${tttmp/${ttoday}/\033[1;34m${ttoday}\033[0m}"
+}
+
+function pika() {
+    ## loop forever on pikachu :D
+    clear; echo "\033[s"; while true ; do for D in `ls /Users/meat/Documents/Vrac/tmp/3_png/*| sort -t . -n -k1.3`; do [ "${D}" ] && echo "\033[u" && tube ${D}; done; done
+}
+
+function animate() {
+    clear; echo "\033[s" ; for D in `ls *.png | sort -t . -n -k1.3`; do [ "${D}" ] && echo "\033[u" && tube ${D}; done
+}
+
+function get_gif() {
+    python /Users/meat/Documents/Vrac/get_gif.py "$@"; source ~/.zshrc.local
+}
+
+# used to add gifs
+zrcgifs() {
+    xsource "${ZDOTDIR:-${HOME}}/.zshrc.gifs"
+    return 0
+}
+
+zrcgifs
+if which rbenv > /dev/null; then eval "$(rbenv init -)"; fi
+
+export GOPATH=$HOME/go
+export PATH=$PATH:$GOPATH/bin

@@ -1,0 +1,168 @@
+#Added by 'get_gif.py'
+function gif_beach() {
+	(cd /Users/meat/Documents/tmp/1769c1c481b4152865aab6bec34fec7aca67ec25_hq ; clear; echo '[s' ; for D in `ls *.anim | gsort -V`; do [ '${D}' ] && echo '[u' && cat ${D} && sleep 0.1; done)
+}
+#Added by 'get_gif.py'
+function pika_os() {
+	(cd /Users/meat/Documents/tmp/19hg0ehgucc5ngif ; clear; echo '[s' ; for D in `ls *.anim | gsort -V`; do [ '${D}' ] && echo '[u' && cat ${D} && sleep 0.100000; done)
+}
+#Added by 'get_gif.py'
+function pika_os() {
+	(cd /Users/meat/Documents/tmp/19hg0ehgucc5ngif_1 ; clear; echo '[s' ; for D in `ls *.anim | gsort -V`; do [ '${D}' ] && echo '[u' && cat ${D} && sleep 0.070000; done)
+}
+#Added by 'get_gif.py'
+function pika_run() {
+	(cd /Users/meat/Documents/tmp/tumblr_mp11e5TYdH1r5fhkdo1_500 ; clear; echo '[s' ; for D in `ls *.anim | gsort -V`; do [ '${D}' ] && echo '[u' && cat ${D} && sleep 0.070000; done)
+}
+#Added by 'get_gif.py'
+function pika_run() {
+	(cd /Users/meat/Documents/tmp/tumblr_mp11e5TYdH1r5fhkdo1_500_1 ; clear; echo '[s' ; for D in `ls *.anim | gsort -V`; do [ '${D}' ] && echo '[u' && cat ${D} && sleep 0.070000; done)
+}
+#Added by 'get_gif.py'
+function pika_run() {
+	(cd /Users/meat/Documents/tmp/tumblr_mp11e5TYdH1r5fhkdo1_500_2 ; clear; echo '[s' ; for D in `ls *.anim | gsort -V`; do [ '${D}' ] && echo '[u' && cat ${D} && sleep 0.070000; done)
+}
+#Added by 'get_gif.py'
+function pika_run2() {
+	(cd /Users/meat/Documents/tmp/tumblr_mzuw7ufY1m1tqub6no1_500 ; clear; echo '[s' ; for D in `ls *.anim | gsort -V`; do [ '${D}' ] && echo '[u' && cat ${D} && sleep 0.050000; done)
+}
+#Added by 'get_gif.py'
+function pika_dash() {
+	(cd /Users/meat/Documents/tmp/tumblr_lg6gmahQfP1qamnhpo1_r1_500 ; clear; echo '[s' ; for D in `ls *.anim | gsort -V`; do [ '${D}' ] && echo '[u' && cat ${D} && sleep 0.050000; done)
+}
+#Added by 'get_gif.py'
+function pika_dash() {
+	(cd /Users/meat/Documents/tmp/tumblr_lg6gmahQfP1qamnhpo1_r1_500_1 ; clear; echo '[s' ; for D in `ls *.anim | gsort -V`; do [ '${D}' ] && echo '[u' && cat ${D} && sleep 0.020000; done)
+}
+#Added by 'get_gif.py'
+function gif_charmander_to_charizard() {
+	(cd /Users/meat/Documents/tmp/853059513927f481a27face07d98e2f4b4157b96_hq ; clear; echo '[s' ; for D in `ls *.anim | gsort -V`; do [ '${D}' ] && echo '[u' && cat ${D} && sleep 0.050000; done)
+}
+#Added by 'get_gif.py'
+function gif_charmander_to_charizard() {
+	(cd /Users/meat/Documents/tmp/853059513927f481a27face07d98e2f4b4157b96_hq_1 ; clear; echo '[s' ; for D in `ls *.anim | gsort -V`; do [ '${D}' ] && echo '[u' && cat ${D} && sleep 0.050000; done)
+}
+#Added by 'get_gif.py'
+function gif_ash() {
+	(cd /Users/meat/Documents/tmp/tumblr_lhygprVvH51qhtqp3o1_500 ; clear; echo '[s' ; for D in `ls *.anim | gsort -V`; do [ '${D}' ] && echo '[u' && cat ${D} && sleep 0.050000; done)
+}
+#Added by 'get_gif.py'
+function gif_pokeball_go() {
+	(cd /Users/meat/Documents/tmp/Gegrj ; clear; echo '[s' ; for D in `ls *.anim | gsort -V`; do [ '${D}' ] && echo '[u' && cat ${D} && sleep 0.050000; done)
+}
+#Added by 'get_gif.py'
+function gif_pokeball_go() {
+	(cd /Users/meat/Documents/tmp/Gegrj_1 ; clear; echo '[s' ; for D in `ls *.anim | gsort -V`; do [ '${D}' ] && echo '[u' && cat ${D} && sleep 0.050000; done)
+}
+#Added by 'get_gif.py'
+function gif_pokeball_go() {
+	(cd /Users/meat/Documents/tmp/Gegrj_2 ; clear; echo '[s' ; for D in `ls *.anim | gsort -V`; do [ '${D}' ] && echo '[u' && cat ${D} && sleep 0.050000; done)
+}
+#Added by 'get_gif.py'
+function pika_bolt() {
+	(cd /Users/meat/Documents/tmp/tumblr_nbg6p8rAf61s5h198o1_500 ; clear; echo '[s' ; for D in `ls *.anim | gsort -V`; do [ '${D}' ] && echo '[u' && cat ${D} && sleep 0.050000; done)
+}
+#Added by 'get_gif.py'
+function pika_charge() {
+	(cd /Users/meat/Documents/tmp/tumblr_m4pivihqTj1qkld3fo1_500 ; clear; echo '[s' ; for D in `ls *.anim | gsort -V`; do [ '${D}' ] && echo '[u' && cat ${D} && sleep 0.050000; done)
+}
+#Added by 'get_gif.py'
+function pika_charge() {
+	(cd /Users/meat/Documents/tmp/tumblr_m4pivihqTj1qkld3fo1_500_1 ; clear; echo '[s' ; for D in `ls *.anim | gsort -V`; do [ '${D}' ] && echo '[u' && cat ${D} && sleep 0.050000; done)
+}
+#Added by 'get_gif.py'
+function pika_charge() {
+	(cd /Users/meat/Documents/tmp/tumblr_m4pivihqTj1qkld3fo1_500_2 ; clear; echo '[s' ; for D in `ls *.anim | gsort -V`; do [ '${D}' ] && echo '[u' && cat ${D} && sleep 0.050000; done)
+}
+#Added by 'get_gif.py'
+function pika_sad() {
+	(cd /Users/meat/Documents/tmp/giphy ; clear; echo '[s' ; for D in `ls *.anim | gsort -V`; do [ '${D}' ] && echo '[u' && cat ${D} && sleep 0.050000; done)
+}
+#Added by 'get_gif.py'
+function pika_run3() {
+	(cd /Users/meat/Documents/tmp/tumblr_mhnluyTPEE1s3rghso7_500 ; clear; echo '[s' ; for D in `ls *.anim | gsort -V`; do [ '${D}' ] && echo '[u' && cat ${D} && sleep 0.050000; done)
+}
+#Added by 'get_gif.py'
+function gif_link2() {
+	(cd /Users/meat/Documents/tmp/tumblr_moiadk0wfv1rtkss6o1_500 ; clear; echo '[s' ; for D in `ls *.anim | gsort -V`; do [ '${D}' ] && echo '[u' && cat ${D} && sleep 0.050000; done)
+}
+#Added by 'get_gif.py'
+function gif_link() {
+	(cd /Users/meat/Documents/tmp/tumblr_mz3su7BKcp1sum3xmo1_500 ; clear; echo '[s' ; for D in `ls *.anim | gsort -V`; do [ '${D}' ] && echo '[u' && cat ${D} && sleep 0.050000; done)
+}
+#Added by 'get_gif.py'
+function pika_thunder() {
+	(cd /Users/meat/Documents/tmp/li6vf ; clear; echo '[s' ; for D in `ls *.anim | gsort -V`; do [ '${D}' ] && echo '[u' && cat ${D} && sleep 0.050000; done)
+}
+#Added by 'get_gif.py'
+function pika_thunder() {
+	(cd /Users/meat/Documents/tmp/li6vf_1 ; clear; echo '[s' ; for D in `ls *.anim | gsort -V`; do [ '${D}' ] && echo '[u' && cat ${D} && sleep 0.030000; done)
+}
+#Added by 'get_gif.py'
+function pika_thunder() {
+	(cd /Users/meat/Documents/tmp/li6vf_2 ; clear; echo '[s' ; for D in `ls *.anim | gsort -V`; do [ '${D}' ] && echo '[u' && cat ${D} && sleep 0.020000; done)
+}
+#Added by 'get_gif.py'
+function pika_thunder() {
+	(cd /Users/meat/Documents/tmp/li6vf_3 ; clear; echo '[s' ; for D in `ls *.anim | gsort -V`; do [ '${D}' ] && echo '[u' && cat ${D} && sleep 0.005000; done)
+}
+#Added by 'get_gif.py'
+function pika_thunder() {
+	(cd /Users/meat/Documents/tmp/li6vf_4 ; clear; echo '[s' ; for D in `ls *.anim | gsort -V`; do [ '${D}' ] && echo '[u' && cat ${D} && sleep 0.008000; done)
+}
+#Added by 'get_gif.py'
+function gif_mew() {
+	(cd /Users/meat/Documents/tmp/tumblr_naqfufOy6R1scncwdo1_500 ; clear; echo '[s' ; for D in `ls *.anim | gsort -V`; do [ '${D}' ] && echo '[u' && cat ${D} && sleep 0.050000; done)
+}
+#Added by 'get_gif.py'
+function gif_mew() {
+	(cd /Users/meat/Documents/tmp/tumblr_naqfufOy6R1scncwdo1_500_1 ; clear; echo '[s' ; for D in `ls *.anim | gsort -V`; do [ '${D}' ] && echo '[u' && cat ${D} && sleep 0.050000; done)
+}
+#Added by 'get_gif.py'
+function gif_mewtwo() {
+	(cd /Users/meat/Documents/tmp/tumblr_lloezqvwdM1qi0kfro1_500 ; clear; echo '[s' ; for D in `ls *.anim | gsort -V`; do [ '${D}' ] && echo '[u' && cat ${D} && sleep 0.050000; done)
+}
+#Added by 'get_gif.py'
+function gif_mewtwo() {
+	(cd /Users/meat/Documents/tmp/tumblr_lloezqvwdM1qi0kfro1_500_1 ; clear; echo '[s' ; for D in `ls *.anim | gsort -V`; do [ '${D}' ] && echo '[u' && cat ${D} && sleep 0.050000; done)
+}
+#Added by 'get_gif.py'
+function gif_mewtwo2() {
+	(cd /Users/meat/Documents/tmp/giphy_1 ; clear; echo '[s' ; for D in `ls *.anim | gsort -V`; do [ '${D}' ] && echo '[u' && cat ${D} && sleep 0.050000; done)
+}
+#Added by 'get_gif.py'
+function gif_mewtwo2() {
+	(cd /Users/meat/Documents/tmp/giphy_2 ; clear; echo '[s' ; for D in `ls *.anim | gsort -V`; do [ '${D}' ] && echo '[u' && cat ${D} && sleep 0.070000; done)
+}
+#Added by 'get_gif.py'
+function gif_dn_light() {
+	(cd /Users/meat/Documents/tmp/giphy_3 ; clear; echo '[s' ; for D in `ls *.anim | gsort -V`; do [ '${D}' ] && echo '[u' && cat ${D} && sleep 0.050000; done)
+}
+#Added by 'get_gif.py'
+function gif_dn_light() {
+	(cd /Users/meat/Documents/tmp/giphy_4 ; clear; echo '[s' ; for D in `ls *.anim | gsort -V`; do [ '${D}' ] && echo '[u' && cat ${D} && sleep 0.050000; done)
+}
+#Added by 'get_gif.py'
+function gif_dn_ryuk() {
+	(cd /Users/meat/Documents/tmp/tumblr_nkqloz6Eou1tti2noo1_500 ; clear; echo '[s' ; for D in `ls *.anim | gsort -V`; do [ '${D}' ] && echo '[u' && cat ${D} && sleep 0.050000; done)
+}
+#Added by 'get_gif.py'
+function gif_dn_L2() {
+	(cd /Users/meat/Documents/tmp/13234 ; clear; echo '[s' ; for D in `ls *.anim | gsort -V`; do [ '${D}' ] && echo '[u' && cat ${D} && sleep 0.050000; done)
+}
+#Added by 'get_gif.py'
+function gif_dn_L2() {
+	(cd /Users/meat/Documents/tmp/giphy_5 ; clear; echo '[s' ; for D in `ls *.anim | gsort -V`; do [ '${D}' ] && echo '[u' && cat ${D} && sleep 0.050000; done)
+}
+#Added by 'get_gif.py'
+function gif_dn_L2() {
+	(cd /Users/meat/Documents/tmp/fhJMQ0x ; clear; echo '[s' ; for D in `ls *.anim | gsort -V`; do [ '${D}' ] && echo '[u' && cat ${D} && sleep 0.050000; done)
+}
+#Added by 'get_gif.py'
+function gif_batman() {
+	(cd /Users/meat/Documents/tmp/giphy_6 ; clear; echo '[s' ; for D in `ls *.anim | gsort -V`; do [ '${D}' ] && echo '[u' && cat ${D} && sleep 0.050000; done)
+}
+#Added by 'get_gif.py'
+function gif_batman() {
+	(cd /Users/meat/Documents/tmp/giphy_7 ; clear; echo '[s' ; for D in `ls *.anim | gsort -V`; do [ '${D}' ] && echo '[u' && cat ${D} && sleep 0.050000; done)
+}
